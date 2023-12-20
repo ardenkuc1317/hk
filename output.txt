@@ -1,7 +1,16 @@
 Microsoft Windows [Version 10.0.23606.1000]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\tieub\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug>cmd /k 
+C:\Users\tieub\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug>cmd /k net user
+
+User accounts for \\LAPTOP-EOF8BS2F
+
+-------------------------------------------------------------------------------
+Administrator            DefaultAccount           Guest                    
+khoantv                  tieub                    WDAGUtilityAccount       
+The command completed successfully.
+
+
 C:\Users\tieub\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug>
 C:\Users\tieub\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug>
 C:\Users\tieub\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug>
